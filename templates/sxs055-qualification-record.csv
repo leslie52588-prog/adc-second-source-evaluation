@@ -1,0 +1,2 @@
+record_id,board_revision,reference_full_part_number,candidate_full_part_number,rf_frequency_mhz,channel_bandwidth_mhz,duplex_mode_tdd_fdd,data_interface_cmos_lvds,tx_evm_db,phase_noise_dbc_hz,spurious_dbc,image_rejection_db,test_name,acceptance_limit,reference_result,candidate_result,pass_fail,reviewer,date,notes
+EXAMPLE-DELETE-ME,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"Blank template only; remove example row before using"
