@@ -1,2 +1,0 @@
-record_id,board_revision,reference_full_part_number,candidate_full_part_number,dac_update_rate_gsps,interpolation_factor,nyquist_zone,nco_ftw_bits,jesd_lanes,lane_rate_gbps,jesd_subclass,clock_source_ghz,output_mode_nrz_mix_rz,fullscale_ma,test_name,acceptance_limit,reference_result,candidate_result,pass_fail,reviewer,date,notes
-EXAMPLE-DELETE-ME,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"Blank template only; remove example row before using"
