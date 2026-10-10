@@ -1,0 +1,2 @@
+record_id,board_revision,reference_full_part_number,candidate_full_part_number,sample_rate_msps,clock_source,input_condition,serial_interface_mode,capture_fpga_build,test_name,acceptance_limit,reference_result,candidate_result,pass_fail,reviewer,date,notes
+EXAMPLE-DELETE-ME,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"Blank template only; remove example row before using"
