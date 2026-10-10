@@ -1,14 +1,14 @@
-# AD9253 → JXA036: existing-board evaluation worksheet
+# AD9253 → SXA036: existing-board evaluation worksheet
 
 **Status:** Public blank method. No measured data or customer board claim.
 
 ## Scope
 
-Shenxin lists JXA036 as a pin-to-pin candidate for the matching AD9253 48-pin package. The JXA036 listing describes 14-bit, four-channel, 125 MSPS operation. ADI lists AD9253 orderable 80/105/125 MSPS versions. Verify the complete ordering suffix, speed grade, package and configuration; do not infer qualification of every variant from a family name.
+Shenxin lists SXA036 as a pin-to-pin candidate for the matching AD9253 48-pin package. The SXA036 listing describes 14-bit, four-channel, 125 MSPS operation. ADI lists AD9253 orderable 80/105/125 MSPS versions. Verify the complete ordering suffix, speed grade, package and configuration; do not infer qualification of every variant from a family name.
 
 ## 1. Establish the baseline
 
-| Item | Reference AD9253 | Candidate JXA036 | Evidence / reviewer |
+| Item | Reference AD9253 | Candidate SXA036 | Evidence / reviewer |
 |---|---|---|---|
 | Full populated ordering code and package | TBD | TBD | TBD |
 | PCB revision, fitted options, assembly lot | TBD | TBD | TBD |
@@ -41,4 +41,6 @@ For medical ultrasound, use the manufacturer's approved phantom and image-qualit
 
 The result is meaningful only with a board revision, test date, setup, owner and sign-off. A pin match is the beginning of the evaluation. Contact Leslie at **gjr@shenxinic.com** for the matching pin comparison and sample discussion.
 
-Sources: [Shenxin JXA036](https://shenxinic.com/product/jxa036), [ADI AD9253](https://www.analog.com/en/products/ad9253.html).
+Sources: [Shenxin SXA036](https://shenxinic.com/product/jxa036), [ADI AD9253](https://www.analog.com/en/products/ad9253.html).
+
+*AD9253 is a trademark of Analog Devices, Inc. SXA036 is an independently designed pin-to-pin alternative. All trademarks belong to their respective owners.*
